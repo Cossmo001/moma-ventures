@@ -140,7 +140,7 @@ nav .Cart a {
 
     /* Sections Grid adjustments */
     .sections ul {
-        border: 2px solid #dc3545;
+        /* border: 2px solid #dc3545; */
         display: grid;
         grid-template-columns: repeat(2, 1fr); /* Adjust to 1 column for mobile */
         grid-template-rows: repeat(3, 1fr); /* Adjust to 6 rows for mobile */
